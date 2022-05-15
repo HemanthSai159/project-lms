@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    animation: bgcolor infinite 10s;
+}
+
+*{
+    background-color:rgba(247, 243, 30, 0.808)
+}
+
+@keyframes bgcolor {
+    100% {
+        background: #ffffff;
+    }
+}
